@@ -1,0 +1,138 @@
+.main-div{
+background-image: url("../images/dark.jpg");
+    background-size: cover;background-repeat: no-repeat;
+    height: 127vh;
+}
+body{
+    margin: unset;
+}
+.div-top{
+    background-color: rgba(15,15,15,0.89);
+    height: 5vh;
+}
+.top-left h5{
+    color: white;
+    margin-left: 10%;
+}
+.second-div{
+    background-color:rgba(0,0,0,0.46);
+    height: 20vh;
+}
+.second-left-div h3{
+    color: white;
+  margin-left: 10%;
+    display: flex;
+    justify-content: center;
+    width: 20%;
+    padding-top: 60px;
+}
+.second-right-div {
+    display: flex;
+    justify-content: center;
+    margin-left: 50%;
+padding-bottom: 50px;
+}
+.second-right-div button{
+    background-color: transparent;
+    color: white;
+    border-color: transparent;
+}
+.third-div{
+    width: 40%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.third-left-div h4{
+    color: white;
+}
+.third-left-div h2,p{
+    color: white;
+}
+.third-left-div button{
+    background-color: rgba(163, 10, 9, 0.98);
+    color: white;
+    border-color: transparent;
+    border-radius: 10px;
+}
+.fourth-div{
+    display: flex;
+margin-left: 10%;
+    margin-top: 5%;
+}
+.fourth-left-div{
+    background-color: rgba(236,10,9,0.78);
+    width: 25%;
+    height: 30vh;
+    border-radius: 15px;
+    margin: 10px;
+}
+.fourth-left-div img{
+  width: 15%;
+    height: 15%;
+    margin-left: 42%;
+    margin-top: 20%;
+}
+.fourth-left-div h5{
+    justify-content: center;
+    display: flex;
+}
+.fourth-left-div p{
+    margin-left: 10%;
+    width: 80%;
+    margin-right: 10%;
+}
+.fourth-mid-div{
+    background-color: rgba(236,10,9,0.78);
+    width: 25%;
+    height: 30vh;
+    border-radius: 15px;
+    margin: 10px;
+}
+.fourth-mid-div img{
+  width: 15%;
+    height: 15%;
+    margin-left: 42%;
+    margin-top: 20%;
+}
+.fourth-mid-div h5{
+    justify-content: center;
+    display: flex;
+}
+.fourth-mid-div p{
+    margin-left: 10%;
+    width: 80%;
+    margin-right: 10%;
+}
+.fourth-right-div{
+    background-color: rgba(236,10,9,0.78);
+    width: 25%;
+    height: 30vh;
+    border-radius: 15px;
+    margin: 10px;
+}
+.fourth-right-div img{
+  width: 15%;
+    height: 15%;
+    margin-left: 42%;
+    margin-top: 20%;
+}
+.fourth-right-div h5{
+    justify-content: center;
+    display: flex;
+}
+.fourth-right-div p{
+    margin-left: 10%;
+    width: 80%;
+    margin-right: 10%;
+}
+.fifth-div{
+    background-color: rgba(15,15,15,0.91);
+    height: 15%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.fifth-div h4{
+    color: white;
+    justify-content: center;
+    display: flex;
+}
